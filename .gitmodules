@@ -1,0 +1,3 @@
+[submodule "devopsvinee"]
+	path = devopsvinee
+	url = https://github.com/vineela4/devopsvinee.git
